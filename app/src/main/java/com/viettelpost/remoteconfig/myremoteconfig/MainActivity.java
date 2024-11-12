@@ -20,9 +20,10 @@ public class MainActivity extends AppCompatActivity {
 
     private static final String LOADING_PHRASE_CONFIG_KEY = "loading_phrase";
     private static final String WELCOME_MESSAGE_KEY = "welcome_message";
-    private static final String WELCOME_MESSAGE_CAPS_KEY = "welcome_message_caps";
+   // private static final String WELCOME_MESSAGE_CAPS_KEY = "welcome_message_caps";
     private static final String CHECK_ACTION = "check_action_bar";
     private static final String CHECK_THEME = "set_theme";
+    private static final String TEST = "set_theme";
 
     private FirebaseRemoteConfig mFirebaseRemoteConfig;
     private Button btnLoad;
